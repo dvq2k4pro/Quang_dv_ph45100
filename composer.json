@@ -1,0 +1,15 @@
+{
+    "name": "acer/github",
+    "autoload": {
+        "psr-4": {
+            "Acer\\Github\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "dvq2k4pro",
+            "email": "fndddjj@gmail.com"
+        }
+    ],
+    "require": {}
+}
